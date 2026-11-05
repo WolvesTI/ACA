@@ -4,19 +4,18 @@
 
 ### PORTADA
 
-**INSTITUCIÓN EDUCATIVA / UNIVERSIDAD**  
-**PROGRAMA DE INGENIERÍA DE SISTEMAS Y COMPUTACIÓN**  
+**CUN**  
+**PROGRAMA DE INGENIERÍA DE SISTEMAS**  
 **ASIGNATURA:** Programación Avanzada  
-**PROYECTO:** ACA — Sistema de Gestión de Biblioteca  
+**PROYECTO:** ACA   
 
 **Presentado por:**  
-Estudiante(s) de Programación Avanzada  
+LUIS KALED CORCHO BERMUDEZ
 
 **Docente:**  
-Docente de Programación Avanzada  
+VERONICA CASTRO
 
-**Fecha:**  
-5 de Noviembre de 2026  
+
 
 ---
 
