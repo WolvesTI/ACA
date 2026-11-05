@@ -682,27 +682,3 @@ AcaBiblioteca.sln
     └── AcaBiblioteca.sql
 ```
 
-### Anexo B: Estructura del Archivo `README.md`
-
-El archivo `README.md` del repositorio debe configurarse con el siguiente formato estándar en Markdown:
-
-```markdown
-# ACA — Sistema de Gestión de Biblioteca
-
-Aplicación de escritorio para la gestión integral de bibliotecas desarrollada en C#, Windows Forms y SQL Server.
-
-## Requisitos de Instalación
-- Windows 10/11
-- Visual Studio 2022 con la carga de trabajo de desarrollo de escritorio de .NET.
-- SQL Server 2022 / SQL Server Express.
-- SQL Server Management Studio (SSMS).
-
-## Configuración de la Base de Datos
-1. Abra SQL Server Management Studio.
-2. Ejecute el archivo `SqlScript/AcaBiblioteca.sql`.
-3. Verifique la creación de la base de datos `AcaBiblioteca` y las 5 tablas relacionales.
-4. Ajuste la cadena de conexión en `AcaBiblioteca.Datos/ConexionBD.cs` con el nombre de su servidor local.
-
-## Autores
-- Estudiante de Programación Avanzada
-```
