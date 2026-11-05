@@ -1,8 +1,6 @@
 # Sistema de Gestión de Biblioteca — Documento Técnico de Arquitectura y Desarrollo
 
----
 
-### PORTADA
 
 **CUN**  
 **PROGRAMA DE INGENIERÍA DE SISTEMAS**  
@@ -18,8 +16,6 @@ VERONICA CASTRO
 
 
 ---
-
-### CONTRAPORTADA
 
 **Sistema de Gestión de Biblioteca**  
 Proyecto desarrollado como evidencia del curso de **Programación Avanzada**, aplicando Programación Orientada a Objetos (POO), diseño de bases de datos relacionales en SQL Server, arquitectura en N-Capas (Presentación, Lógica de Negocio y Acceso a Datos), desarrollo en C# con Windows Forms, validación de datos, manejo de excepciones y control de versiones con Git y GitHub.
