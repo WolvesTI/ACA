@@ -1,4 +1,4 @@
-# Sistema de Gestión de Biblioteca — Documento Técnico de Arquitectura y Desarrollo
+# Sistema de Gestión de Biblioteca — ACA
 
 
 
