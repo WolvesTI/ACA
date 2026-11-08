@@ -12,14 +12,6 @@ LUIS KALED CORCHO BERMUDEZ
 
 **Docente:**  
 VERONICA CASTRO
-<p align="center">
-  <img src="https://shields.io" alt="Estado" />
-  <img src="https://shields.io" alt="Versión" />
-  <img src="https://shields.io" alt="Licencia" />
-</p>
-
-
-
 
 
 ---
