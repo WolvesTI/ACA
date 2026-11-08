@@ -248,15 +248,15 @@ El diseño orientado a objetos del sistema organiza las entidades de dominio en 
 - **Abstracción y Separación de Responsabilidades:** Las clases de entidad solo contienen datos. La lógica de acceso a datos reside exclusivamente en clases especializadas (`LibroDAO`, `PrestamoDAO`).
 
 ```csharp
-// Ejemplo de Encapsulamiento y Clase Entidad en C#
+ // Encapsulamiento en C#
 namespace AcaBiblioteca.Entidades
 {
     public class Libro
     {
         public string ISBN { get; set; }
         public string Titulo { get; set; }
-        public int IdAutor { get; set; }
-        public int IdEditorial { get; set; }
+          public int IdAutor { get; set; }
+           public int IdEditorial { get; set; }
         public string Categoria { get; set; }
         public int Anio { get; set; }
         public int Existencias { get; set; }
@@ -412,7 +412,7 @@ Proporciona consultas consolidadas como:
 La clase `ConexionBD` centraliza la cadena de conexión hacia SQL Server, utilizando autenticación integrada de Windows:
 
 ```csharp
-// Clase de Conexión a Base de Datos en C# (ADO.NET)
+// Base de Datos en C# 
 using System;
 using System.Data.SqlClient;
 
@@ -465,15 +465,14 @@ namespace AcaBiblioteca.Datos
 }
 ```
 
-### 11.2 Script SQL Completo (`AcaBiblioteca.sql`)
+### 11.2 Script SQL  (`AcaBiblioteca.sql`)
 
 A continuación se presenta el script ejecutable completo para la creación de la base de datos, tablas, restricciones e inserción de datos iniciales de prueba:
 
 ```sql
--- =========================================================
--- SCRIPT DE CREACIÓN DE BASE DE DATOS Y TABLAS - ACA BIBLIOTECA
--- Motor: SQL Server 2022
--- =========================================================
+
+-- SCRIPT DE CREACIÓN DE BASE DE DATOS Y TABLAS - ACA BIBLIO
+
 
 CREATE DATABASE AcaBiblioteca;
 GO
@@ -534,9 +533,9 @@ CREATE TABLE Prestamos (
 );
 GO
 
--- =========================================================
--- INSERCIÓN DE DATOS DE PRUEBA (DML)
--- =========================================================
+
+-- INSERCIÓN DE DATOS DE PRUEBA 
+
 
 INSERT INTO Autores (Nombre, Apellido) VALUES 
 ('Gabriel', 'García Márquez'),
