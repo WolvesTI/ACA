@@ -13,7 +13,13 @@ LUIS KALED CORCHO BERMUDEZ
 **Docente:**  
 VERONICA CASTRO
 
+<div align="center">
 
+[![Estado del Proyecto](https://shields.io)](https://github.com)
+[![Versión](https://shields.io)](https://github.com)
+[![Licencia](https://shields.io)](https://github.com)
+
+</div>
 
 ---
 
