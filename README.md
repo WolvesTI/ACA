@@ -15,11 +15,12 @@ VERONICA CASTRO
 
 <div align="center">
 
-[![Estado](https://shields.io)](https://github.com)
-[![Versión](https://shields.io)](https://github.com)
-[![Licencia](https://shields.io)](https://github.com)
+![Estado](https://shields.io)
+![Versión](https://shields.io)
+![Licencia](https://shields.io)
 
 </div>
+
 
 
 
